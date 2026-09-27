@@ -251,4 +251,4 @@ This repository serves as the official landing page for GameSpy Arcade. The soft
 **Get the most recent version of GameSpy Arcade today!**
 
 ---
-**Last updated:** 2026-09-26 22:35:08 UTC
+**Last updated:** 2026-09-27 01:15:23 UTC
